@@ -1,0 +1,5 @@
+to add something new in existing repo
+
+git add filename.extension
+git commit -m "commit"
+git push origin
